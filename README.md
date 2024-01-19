@@ -1,1 +1,3 @@
 # Customer-Segmentation-Classification
+
+This Project focuses on the critical application of unsupervised learning known as Customer Segmentation. Leveraging advanced clustering techniques, specifically the k-means algorithm, the project aims to unveil distinct customer segments within unlabeled datasets. The utilization of k-means clustering becomes paramount in this context, as it enables companies to discern various customer segments effectively. By identifying these segments, businesses can strategically target and engage with their potential user base, thereby optimizing marketing efforts and enhancing overall customer satisfaction.
